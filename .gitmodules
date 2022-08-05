@@ -1,0 +1,9 @@
+[submodule "IBODS-Hardware"]
+	path = IBODS-Hardware
+	url = https://github.com/MatiasSingermann/IBODS-Hardware
+[submodule "IBODS-AI"]
+	path = IBODS-AI
+	url = https://github.com/MatiasSingermann/IBODS-AI
+[submodule "IBODS-Fullstack"]
+	path = IBODS-Fullstack
+	url = https://github.com/MatiasSingermann/IBODS-Fullstack
